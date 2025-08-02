@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhijith232373/LeetCode/tree/master/0050-powx-n) |
+| [2491-smallest-even-multiple](https://github.com/Abhijith232373/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Abhijith232373/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Recursion
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abhijith232373/LeetCode/tree/master/0088-merge-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Abhijith232373/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
