@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Abhijith232373/LeetCode/tree/master/2491-smallest-even-multiple) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/Abhijith232373/LeetCode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
