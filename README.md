@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Abhijith232373/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhijith232373/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Abhijith232373/LeetCode/tree/master/0050-powx-n) |
 | [2491-smallest-even-multiple](https://github.com/Abhijith232373/LeetCode/tree/master/2491-smallest-even-multiple) |
