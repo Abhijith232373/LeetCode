@@ -32,5 +32,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/Abhijith232373/LeetCode/tree/master/0742-to-lower-case) |
 | [3379-score-of-a-string](https://github.com/Abhijith232373/LeetCode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
