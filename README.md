@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhijith232373/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Abhijith232373/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Abhijith232373/LeetCode/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Abhijith232373/LeetCode/tree/master/0412-fizz-buzz) |
 | [2491-smallest-even-multiple](https://github.com/Abhijith232373/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Abhijith232373/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Abhijith232373/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -36,6 +37,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Abhijith232373/LeetCode/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/Abhijith232373/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Abhijith232373/LeetCode/tree/master/0742-to-lower-case) |
 | [3379-score-of-a-string](https://github.com/Abhijith232373/LeetCode/tree/master/3379-score-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Abhijith232373/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
