@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Abhijith232373/LeetCode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/Abhijith232373/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Abhijith232373/LeetCode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/Abhijith232373/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3379-score-of-a-string](https://github.com/Abhijith232373/LeetCode/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Abhijith232373/LeetCode/tree/master/0792-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/Abhijith232373/LeetCode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
