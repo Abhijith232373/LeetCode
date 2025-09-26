@@ -1,9 +1,17 @@
-const differenceOfSums = (n, m) => {
-    let num1 = 0, num2 = 0;
-
-    for (let i = 1; i <= n; i++) {
-        !(i % m) ? num1 += i : num2 += i;
+/**
+ * @param {number} n
+ * @param {number} m
+ * @return {number}
+ */
+var differenceOfSums = function(n, m) {
+    let div=0
+    let not=0
+    for(let i=1;i<=n;i++){
+        if(i%m===0){
+            div+=i
+        }else{
+            not+=i
+        }
     }
-    
-    return num2 - num1;
-}
+    return not-div
+};
