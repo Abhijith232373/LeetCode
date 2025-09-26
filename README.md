@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Abhijith232373/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0792-binary-search](https://github.com/Abhijith232373/LeetCode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/Abhijith232373/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Abhijith232373/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Abhijith232373/LeetCode/tree/master/0782-jewels-and-stones) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Abhijith232373/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
