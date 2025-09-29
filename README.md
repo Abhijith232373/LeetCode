@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijith232373/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Abhijith232373/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhijith232373/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhijith232373/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Abhijith232373/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Abhijith232373/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Abhijith232373/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhijith232373/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Abhijith232373/LeetCode/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhijith232373/LeetCode/tree/master/0412-fizz-buzz) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhijith232373/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
