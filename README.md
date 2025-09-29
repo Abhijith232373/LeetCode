@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Abhijith232373/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Abhijith232373/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0792-binary-search](https://github.com/Abhijith232373/LeetCode/tree/master/0792-binary-search) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijith232373/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Abhijith232373/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhijith232373/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abhijith232373/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijith232373/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -62,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhijith232373/LeetCode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/Abhijith232373/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijith232373/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Abhijith232373/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijith232373/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
