@@ -1,12 +1,11 @@
 func twoSum(nums []int, target int) []int {
-    // var slic[]int
-    for i:=0;i<len(nums);i++{
-        for j:=i+1;j<len(nums);j++{
-            if nums[i]+nums[j]==target{
-                return []int{i,j}
-            }
+    indexmap:=make(map[int]int)
+    for i,num:=range nums{
+        complement:=target - num
+        if idx,found:=indexmap[complement];found{
+            return []int{idx,i}
         }
-        
+        indexmap[num]=i
     }
     return nil
 }
