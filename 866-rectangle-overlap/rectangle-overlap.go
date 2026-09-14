@@ -1,0 +1,15 @@
+func isRectangleOverlap(rec1 []int, rec2 []int) bool {
+    if rec1[2] <= rec2[0] {
+        return false
+    }
+    if rec2[2] <= rec1[0] {
+        return false
+    }
+    if rec1[3] <= rec2[1] {
+        return false
+    }
+    if rec2[3] <= rec1[1] {
+        return false
+    }
+    return true
+}
